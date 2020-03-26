@@ -1,0 +1,3 @@
+[submodule "themes/feather"]
+	path = themes/feather
+	url = https://github.com/Shock-1/thought-engine.git
